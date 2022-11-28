@@ -1,0 +1,22 @@
+{
+  "name": "next-esm-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timbset/next-esm-example",
+  "author": "timbset <timbset@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.15",
+    "d3-color": "^3.1.0",
+    "next": "^13.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
